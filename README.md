@@ -11,7 +11,7 @@ CSS3 for basic styling
 JavaScript for logic, dynamic rendering, and state management
 
 🚀 Live Demo
-Try the live version here: Live Demo Link
+Try the live version here: [QuizApp](https://Prap21.github.io/QuizApp/)
 
 # How It Works
 Answer Questions: Choose the correct option from the presented choices.
