@@ -17,3 +17,6 @@ Try the live version here: [QuizApp](https://Prap21.github.io/QuizApp/)
 Answer Questions: Choose the correct option from the presented choices.
 Get Feedback: Receive immediate feedback for each answer.
 View Results: See your total score and performance summary at the end.
+
+# Future improvments
+Add more question and based on categories fetched by API.
